@@ -14,10 +14,11 @@ A simple RESTful API built with Node.js and Express that retrieves user data fro
 
 
 - Returns users by their profession when accessing the `/users/profession/:profession` endpoint.
-  ![Screenshot 2024-11-16 at 5 30 44 PM](https://github.com/user-attachments/assets/6ebfb4d4-521a-4332-a537-5e50ff8c80f2)
+  ![Screenshot 2024-11-16 at 5 31 07 PM](https://github.com/user-attachments/assets/0000d828-d2a9-415f-a4ec-dfd963f9709b)
+
 
 - Returns a user by their name when accessing the `/users/name/:name` endpoint.
-  ![Screenshot 2024-11-16 at 5 31 07 PM](https://github.com/user-attachments/assets/0000d828-d2a9-415f-a4ec-dfd963f9709b)
+ ![Screenshot 2024-11-16 at 5 30 44 PM](https://github.com/user-attachments/assets/6ebfb4d4-521a-4332-a537-5e50ff8c80f2)
 
 -Returns `user not found` when wrong endpoint is enetered.
 ![Screenshot 2024-11-16 at 5 31 28 PM](https://github.com/user-attachments/assets/81367cd6-dcf4-4dd2-9e3d-2f84bb2389dd)
